@@ -28,14 +28,21 @@ Install Software: pip install pandas pip install pathlib pip install jupyter lab
 
 Installation Dependancies:
 
-![]
+![](https://github.com/Alexisg324/Credit_Risk_Analysis/blob/main/Credit_Risk_Resampling/Screenshots/import_modules.png)
 
 ## Usage
 
 As a lender, I want to determine whether a person's creditworthiness is healthy or bad based on their credit history.  This will determine whether the borrower would or would not be fit for a loan based on a Machine Learning model that will determine their future credit usage (future outcomes of borrower)
 
 Below is an example of what the analysis looks like:
-![]
+CSV file display: 
+![](https://github.com/Alexisg324/Credit_Risk_Analysis/blob/main/Credit_Risk_Resampling/Screenshots/csv_file_of_credit_history_displayed.png)
+
+Prediction between 2 models(0&1):
+![](https://github.com/Alexisg324/Credit_Risk_Analysis/blob/main/Credit_Risk_Resampling/Screenshots/prediction.png)
+
+Matrix: 
+![](https://github.com/Alexisg324/Credit_Risk_Analysis/blob/main/Credit_Risk_Resampling/Screenshots/Matrix.png)
 
 ## Contributers 
 
